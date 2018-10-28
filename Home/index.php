@@ -40,7 +40,7 @@ $query = mysqli_query($conn,$sql);
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.html"><strong>EMR Pattani hospital</strong></a>
+                <a class="navbar-brand" href="index.html"><strong>EMR Online</strong></a>
             </div>
 
             <ul class="nav navbar-top-links navbar-right">
