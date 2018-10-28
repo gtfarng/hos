@@ -381,6 +381,14 @@ font-size: 14px;
     MENU STYLES    
 ------------------------------------------------*/
 
+#logo-container{
+  margin: left;
+  margin-bottom: 10px;
+  width:300px;
+  height:60px;
+  background-image:url('http://placehold.it/200x30/000000/ffffff/&text=BRAND+LOGO');
+}
+
 
 .user-image {
     margin: 25px auto;
@@ -395,8 +403,8 @@ margin:0px;
 }
 .top-navbar .navbar-brand {
 color: #fff;
-width: 260px;
-text-align: left;
+width: 600px;
+text-align: right;
 height: 60px;
 font-size: 24px;
 font-weight: 700;
